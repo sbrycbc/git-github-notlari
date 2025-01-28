@@ -1,9 +1,9 @@
 # 1. Hafta Notlari
 
-## ** Git ve GitHub Kurulumu Terminal Kullanımı ** 
+## **Git ve GitHub Nedir** 
 
 
-### ** Amaçlar **
+### **Amaçlar**
 Bu haftaki hedefimiz
 - Git'in ne olduğunu ve neden kullanıldığı.
 - Git'in nasıl kurulacağı.
@@ -11,27 +11,29 @@ Bu haftaki hedefimiz
 - Git kurulumu sonrası gerekli kontroller.
 
 
-### ** Git Nedir ve Neden Kullanılır? **
-Git, kod geliştirme sürecinde değişiklikleri takip etmenizi ve ekiplerle iş birliği yapmanızı sağlayan bir versiyon kontrol sistemidir. 
+<h2 align="center">🚀 Git Nedir ve Neden Kullanılır?</h2>
+ ⭐Git, kod geliştirme sürecinde değişiklikleri takip etmemizi ve ekiplerle iş birliği yapmamızı sağlayan bir versiyon kontrol sistemidir. 
 </br>
  
 
 <h2 align="center">📌 Versiyon Kontrol Sistemi Nedir?</h2>
 
-<div style="background-color:rgb(97, 184, 235); padding: 15px; border-radius: 8px; color: white; font-family: Arial, sans-serif;">
+🔹 **Bir dosya ya da kümedeki değişiklikleri takip edebilmek için bir yöntemdir.**  
 
-  <p>🔹 <span style="color: red;"><b>Bir dosya ya da kümedeki değişiklikleri takip edebilmek için bir yöntemdir.</b></span></p>
+🔹 **Herhangi bir anda üzerinde çalıştığımız dosyaların o anki hallerini kaydedip istediğimiz zaman o ana geri dönme imkanı verir.**  
 
-  <p>🔹 <span style="color: black;"> <b>Herhangi bir anda üzerinde çalıştığımız dosyaların o anki hallerini kaydedip istediğimiz zaman o ana geri dönme imkanı verir.</b></span></p>
+🔹 **Git dediğimiz olayda bu yapılan değişikliklerin tarihçesini, içeriğini bizim için takip edip kaydeden bir çeşit veritabanıdır.** 
 
-  <p>🔹 <span style="color: red;"><b>Git dediğimiz olayda bu yapılan değişikliklerin tarihçesini, içeriğini bizim için takip edip kaydeden bir çeşit veritabanıdır.</b></span></p>
 
-</div>
+ <h2 align="center">💡 Avantajlari</h2>
 
- - **Avantajları:**
-  - Kod değişikliklerini zaman içinde takip etme.
-  - Eski kodlara kolayca dönme.
-  - Ekip çalışmalarında çakışmaları önleme.
+🔹 **Kod değişikliklerini zaman içinde takip etme.**
+
+🔹 **Eski kodlara kolayca dönme.** 
+
+🔹 **Ekip çalışmalarında çakışmaları önleme.**
+
+🔹 **Dosyaların neden ve nasıl değiştirildiğini anlamayı kolaylaştırır.**
 
 
 
