@@ -72,11 +72,29 @@ Terminal, bilgisayarınıza komutlar yazarak işlemler yapmanızı sağlayan bir
    cd ilk_proje
    ```
 2. İçeride bir dosya oluşturun:
+
+  -  **Eğer dosya içine başlangıçta bir metin eklemek istiyorsanız:**
+  1. Metin ekleme:
    ```bash
    echo "Merhaba Git" > merhaba.txt
-   ls
    ```
-   Bu işlem, "merhaba.txt" adında bir dosya oluşturur ve dosyayı listeler.
+
+  2. İçeriği kontrol etme:
+   ```bash
+   cat  merhaba.txt
+   ```
+   3. Çıktı:
+   ```bash
+   Merhaba Git
+   ```
+
+
+
+   -  **Eğer sadece boş bir dosya oluşturmak istiyorsanız:**
+
+  ```bash
+   touch merhaba.txt
+```
 
 ---
 
