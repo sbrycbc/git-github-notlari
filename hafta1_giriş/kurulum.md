@@ -122,7 +122,7 @@ Terminal, bilgisayarınıza komutlar yazarak işlemler yapmanızı sağlayan bir
 - Bir klasörü ve içindeki tüm dosyaları silmek:
 
  ```bash
-     rm -r dosya_adi
+     rm -r klasör_adi
    ```
 ---
 
