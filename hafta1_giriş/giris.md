@@ -5,7 +5,7 @@
 
 ### **Amaçlar**
 Bu haftaki hedefimiz
-- Git'in ne olduğunu ve neden kullanıldığı.
+- Git'in ve GitHub'in ne olduğunu ve neden kullanıldığı.
 - Git'in nasıl kurulacağı.
 - Terminal nedir ve nasıl kullanılır, buna dair temel bilgiler.
 - Git kurulumu sonrası gerekli kontroller.
@@ -34,6 +34,22 @@ Bu haftaki hedefimiz
 🔹 **Ekip çalışmalarında çakışmaları önleme.**
 
 🔹 **Dosyaların neden ve nasıl değiştirildiğini anlamayı kolaylaştırır.**
+
+ <h2 align="center">🚀  Neden GitHub? </h2>
+
+🔹 **En popüler Git projesi saklama deposudur.**
+
+🔹 **2024 yılı itibarıyla 100 milyondan fazla kullanıcıya sahiptir.**
+
+🔹 **Yazılımcılar için bir tür dijital portföy ve CV niteliği taşır.**
+
+🔹 **Farklı projeleri inceleyerek yeni fikirler edinebilir ve ilham alabilirsiniz.**
+
+🔹 **Geliştiricilerin bir araya gelerek sorunlarına çözüm bulduğu bir topluluk ortamıdır.**
+
+🔹 **Açık kaynak projelere katkıda bulunarak kendinizi geliştirme ve deneyim kazanma imkanı sunar.**
+
+🔹 **Ekip çalışmalarını kolaylaştırarak iş birliğini ve verimliliği artırır.**
 
 
 
