@@ -65,37 +65,65 @@ Terminal, bilgisayarınıza komutlar yazarak işlemler yapmanızı sağlayan bir
 | `mkdir <isim>` | Yeni bir klasör oluşturur.                   |
 | `rm <dosya>`   | Bir dosyayı siler.                           |
 
-#### **Örnek**
-1. Yeni bir klasör oluşturun ve içine gidin:
+#### **Kullanim Örnekleri**
+1. **Yeni bir klasör oluşturmak ve içine gitme komutlari:**
    ```bash
    mkdir ilk_proje
    cd ilk_proje
    ```
-2. İçeride bir dosya oluşturun:
+2. **İçeride bir dosya oluşturmak:**
 
   -  **Eğer dosya içine başlangıçta bir metin eklemek istiyorsanız:**
-  1. Metin ekleme:
+
+  a. Metin ekleme:
    ```bash
-   echo "Merhaba Git" > merhaba.txt
+     echo "Merhaba Git" > merhaba.txt
    ```
 
-  2. İçeriği kontrol etme:
+  b. İçeriği kontrol etme:
    ```bash
-   cat  merhaba.txt
+     cat  merhaba.txt
    ```
-   3. Çıktı:
+ c. Çıktı:
    ```bash
-   Merhaba Git
+     Merhaba Git
    ```
-
-
 
    -  **Eğer sadece boş bir dosya oluşturmak istiyorsanız:**
 
   ```bash
-   touch merhaba.txt
-```
+     touch merhaba.txt
+  ```
+3. **Dosya Silme:**
 
+  a. Tek bir dosya silmek:  
+
+  ```bash
+     rm dosya_adi
+   ```
+   b. Birden fazla dosya silmek:
+
+   ```bash
+     rm dosya_adi dosya2_adi
+   ```
+
+   c. Tüm dosyalari silmek:
+
+   ```bash
+     rm *
+   ```
+
+   d. Dikkat edilmesi gereken noktalar:
+
+⚠️⚠️ Bir dosyayı rm ile sildiğinde, bu işlem geri alınamaz. Bu yüzden emin olmadan kullanilmamasi gerekiyor.⚠️⚠️
+
+4. **Klasör Silme:**
+
+- Bir klasörü ve içindeki tüm dosyaları silmek:
+
+ ```bash
+     rm -r dosya_adi
+   ```
 ---
 
 ## **Adım 4: İlk Depo Oluşturma ve Kontrol**
@@ -118,4 +146,8 @@ Terminal, bilgisayarınıza komutlar yazarak işlemler yapmanızı sağlayan bir
 4. Durumu kontrol edin:
    ```bash
    git status
+   ```
+5. Olusturulan gizli git dosyasini görmek icin:
+   ```bash
+   ls -a
    ```
