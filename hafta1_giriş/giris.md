@@ -3,7 +3,7 @@
 ## **Git ve GitHub Nedir** 
 
 
-### **Amaçlar*
+### **Amaçlar**
 Bu haftaki hedefimiz:
 - Git'in ve GitHub'in ne olduğunu ve neden kullanıldığı.
 - Git'in nasıl kurulacağı.
