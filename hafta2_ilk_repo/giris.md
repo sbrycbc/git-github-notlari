@@ -18,7 +18,7 @@ Bu haftaki hedeflerimiz:
 
  ### **📌Public vs. Private Repositories**
 - Public (Genel): Herkes görebilir, kodlara erişebilir. Açık kaynak projeler için idealdir.
-Private (Özel): Sadece repo sahibi ve belirlenen kişiler erişebilir.
+- Private (Özel): Sadece repo sahibi ve belirlenen kişiler erişebilir.
 ### **📌 Yeni Bir Repo Nasıl Oluşturulur?**
 - GitHub’a giriş yapın.
 - Sağ üstteki "+" ikonuna tıklayın ve "New Repository" seçeneğini seçin.

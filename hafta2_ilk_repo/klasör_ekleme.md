@@ -4,7 +4,7 @@
 İlk olarak, GitHub'daki repository’nizi bilgisayarınıza indirmeniz gerekiyor.
 
 1. GitHub'da ilgili repository’nizi açın.
-2. Sağ üst köşede **Code** butonuna tıklayın ve oradan **HTTPS** linkini kopyalayın (örneğin: `https://github.com/kullanici_adiniz/repo_adiniz.git`).
+2. Sağ üst köşede **Code** butonuna tıklayın ve oradan **SSH** linkini kopyalayın (örneğin: `git clone git@github.com:kullanici_adiniz/repo_adiniz.git`).
 3. Bilgisayarınızda **Git Bash** (veya terminal) açın ve şu komutu girerek repository’yi bilgisayarınıza indirin:
 
     ```bash
