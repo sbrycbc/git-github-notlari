@@ -8,7 +8,7 @@
 3. Bilgisayarınızda **Git Bash** (veya terminal) açın ve şu komutu girerek repository’yi bilgisayarınıza indirin:
 
     ```bash
-    git clone https://github.com/kullanici_adiniz/repo_adiniz.git
+    git clone git@github.com:kullanici_adiniz/repo_adiniz.git
     ```
 
     Bu komut, repository’nizi bilgisayarınıza indirecek. Sonrasında, terminalde repository'nizin klasörüne gitmek için şu komutu kullanın:
