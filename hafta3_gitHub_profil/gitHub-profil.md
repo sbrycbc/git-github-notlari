@@ -65,5 +65,18 @@ Bu format, sosyal medya butonlarını ikon olarak gösterir:
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="Website" height="30" width="40" />
     </a>
 </p>
+<br/>
+
+<h2 align="center">
+<br/>
+<br/>
+<br/>
+<br/>
+
+ ![GitHub GIF](./images/gif-github.gif)
+
+</h2>
+
+
 
 
