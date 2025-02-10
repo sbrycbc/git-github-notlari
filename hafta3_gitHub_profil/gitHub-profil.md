@@ -68,10 +68,7 @@ Bu format, sosyal medya butonlarını ikon olarak gösterir:
 <br/>
 
 <h2 align="center">
-<br/>
-<br/>
-<br/>
-<br/>
+
 
  ![GitHub GIF](./images/gif-github.gif)
 
