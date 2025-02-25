@@ -1,6 +1,7 @@
 # 4. Hafta: GitHub'da Ekip Çalışması 🚀
 
-### *Merhaba Git/GitHub kahramanları! 🎭 Bugün ekip çalışmasının sırlarını keşfedeceğiz. Eğer tek başına çalışmaktan sıkıldıysan ve kodlarını başkalarına da göstermek istiyorsan, doğru yerdesin! Takım çalışması demek "Herkes aynı anda merge etmeye çalışmasın!" diye dua etmek demektir.* 😅
+### **Merhaba Git/GitHub kahramanları! 🎭**
+*Bugün ekip çalışmasının sırlarını keşfedeceğiz. Eğer tek başına çalışmaktan sıkıldıysan ve kodlarını başkalarına da göstermek istiyorsan, doğru yerdesin! Takım çalışması demek "Herkes aynı anda merge etmeye çalışmasın!" diye dua etmek demektir.* 😅
 
 ### 1. GitHub Organizasyonu Nedir?
 - GitHub organizasyonları, birden fazla kişinin birlikte çalışmasını kolaylaştıran yapılardır. Bir şirket ya da proje ekibi için idealdir.
